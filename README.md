@@ -14,3 +14,5 @@ It provides smooth navigation, animated statistics, a logo carousel, hover inter
 The responsive layout ensures a consistent experience across desktop, tablet, and mobile devices.
 
 ## 🚀 Features
+
+* 📱 **Fully Responsive** — Optimized for desktop, tablet, and mobile devices.
