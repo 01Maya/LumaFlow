@@ -20,3 +20,4 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * 🧭 **Section Navigation** — Smoothly navigate between sections using navbar links and anchor scrolling.
 * 🖱️ **Hover Effects** — Interactive hover animations for buttons, cards, and UI elements.
 * 🔢 **Counting Stats** — Animated counters that dynamically display key statistics.
+* 🎠 **Logo Carousel** — Smoothly animated carousel showcasing partner, client, or brand logos.
