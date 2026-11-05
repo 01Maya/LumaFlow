@@ -10,3 +10,4 @@ Built with smooth animations, interactive elements, and a polished visual design
 ## 📝 Description
 
 This landing page combines a minimal interface with modern motion effects and interactive components.
+It provides smooth navigation, animated statistics, a logo carousel, hover interactions, and an interactive mouse cursor tail.
