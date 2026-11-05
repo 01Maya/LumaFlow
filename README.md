@@ -17,3 +17,4 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 
 * 📱 **Fully Responsive** — Optimized for desktop, tablet, and mobile devices.
 * ✨ **Smooth Animations** — Engaging entrance and scroll-based animations powered by Framer Motion.
+🧭 **Section Navigation** — Smoothly navigate between sections using navbar links and anchor scrolling.
