@@ -6,3 +6,5 @@ A modern, responsive landing page designed with a clean and engaging user experi
 Built with smooth animations, interactive elements, and a polished visual design.
 
 ---
+
+## 📝 Description
