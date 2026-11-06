@@ -21,5 +21,6 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * 🖱️ **Hover Effects** — Interactive hover animations for buttons, cards, and UI elements.
 * 🔢 **Counting Stats** — Animated counters that dynamically display key statistics.
 * 🎠 **Logo Carousel** — Smoothly animated carousel showcasing partner, client, or brand logos.
+* 🖱️ **Mouse Cursor Tail** — Interactive cursor trail effect that follows mouse movement.
 
 ---
