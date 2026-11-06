@@ -22,5 +22,6 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * 🔢 **Counting Stats** — Animated counters that dynamically display key statistics.
 * 🎠 **Logo Carousel** — Smoothly animated carousel showcasing partner, client, or brand logos.
 * 🖱️ **Mouse Cursor Tail** — Interactive cursor trail effect that follows mouse movement.
+* 🎨 **Modern UI** — Clean layouts, consistent spacing, typography, and visual hierarchy.
 
 ---
