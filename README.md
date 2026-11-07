@@ -32,3 +32,4 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 
 * **Navbar** — Provides navigation links and access to the main sections of the website.
 * **Hero** — Introduces the product or service with a clear headline, supporting content, and primary CTA.
+* **Logo Carousel** — Displays trusted brands, partners, or client logos in an animated carousel.
