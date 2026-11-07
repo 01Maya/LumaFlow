@@ -27,3 +27,5 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * 📱 **Mobile Friendly** — Adapted layouts and interactions for smaller screen sizes.
 
 ---
+
+## 📂 Sections
