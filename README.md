@@ -24,5 +24,6 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * 🖱️ **Mouse Cursor Tail** — Interactive cursor trail effect that follows mouse movement.
 * 🎨 **Modern UI** — Clean layouts, consistent spacing, typography, and visual hierarchy.
 * ⚡ **Smooth Interactions** — Micro-interactions designed to make the interface feel responsive and engaging.
-* 
+* 📱 **Mobile Friendly** — Adapted layouts and interactions for smaller screen sizes.
+
 ---
