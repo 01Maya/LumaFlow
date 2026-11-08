@@ -34,3 +34,4 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * **Hero** — Introduces the product or service with a clear headline, supporting content, and primary CTA.
 * **Logo Carousel** — Displays trusted brands, partners, or client logos in an animated carousel.
 * **Features** — Highlights the key features and benefits of the product or service.
+* **Product** — Presents the main product offering with supporting visuals and information.
