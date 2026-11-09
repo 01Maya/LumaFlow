@@ -42,3 +42,5 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 ---
 
 ## 🛠️ Tech Stack
+
+* **Next.js** — React framework for building the application.
