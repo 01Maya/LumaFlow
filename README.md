@@ -37,5 +37,6 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * **Product** — Presents the main product offering with supporting visuals and information.
 * **Customer** — Showcases customer information, testimonials, or social proof.
 * **FAQ** — Answers frequently asked questions to help users understand the product or service.
-
+* **Footer** — Contains additional navigation, information, links, and supporting content.
+  
 ---
