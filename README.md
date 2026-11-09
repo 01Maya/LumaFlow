@@ -36,5 +36,6 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * **Features** — Highlights the key features and benefits of the product or service.
 * **Product** — Presents the main product offering with supporting visuals and information.
 * **Customer** — Showcases customer information, testimonials, or social proof.
+* **FAQ** — Answers frequently asked questions to help users understand the product or service.
 
 ---
