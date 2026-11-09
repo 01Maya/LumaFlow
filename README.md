@@ -40,3 +40,5 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * **Footer** — Contains additional navigation, information, links, and supporting content.
   
 ---
+
+## 🛠️ Tech Stack
