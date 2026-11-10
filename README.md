@@ -49,3 +49,6 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * **shadcn/ui** — Reusable and accessible UI components.
 
 ## 👀 Preview
+
+
+## 📸 Screenshot
