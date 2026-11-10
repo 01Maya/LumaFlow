@@ -47,3 +47,5 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 * **Tailwind CSS** — Utility-first CSS framework for responsive styling.
 * **Framer Motion** — Animation library for smooth UI and motion effects.
 * **shadcn/ui** — Reusable and accessible UI components.
+
+## 👀 Preview
