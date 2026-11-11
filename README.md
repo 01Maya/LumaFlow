@@ -61,5 +61,6 @@ The responsive layout ensures a consistent experience across desktop, tablet, an
 
 <img width="1763" height="3570" alt="Image" src="https://github.com/user-attachments/assets/730e9746-6ea5-40a1-ba25-b134b7264570" />
 
+---
 
 ## ⚙️ Installation
