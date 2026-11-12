@@ -78,4 +78,6 @@ git clone https://github.com/your-username/your-repository.git
 cd your-repository
 ```
 
+### 3. Install Dependencies
+
 ---
