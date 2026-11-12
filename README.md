@@ -66,5 +66,6 @@ https://lumaflow-m.vercel.app/
 
 ## ⚙️ Installation
 
+### 1. Clone the Repository
 
 ---
