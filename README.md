@@ -85,4 +85,10 @@ Using npm:
 ```bash
 npm install
 ```
+
+Or using pnpm:
+
+```bash
+pnpm install
+```
 ---
