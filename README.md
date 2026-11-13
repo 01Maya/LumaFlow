@@ -80,4 +80,9 @@ cd your-repository
 
 ### 3. Install Dependencies
 
+Using npm:
+
+```bash
+npm install
+```
 ---
