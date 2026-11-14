@@ -91,4 +91,9 @@ Or using pnpm:
 ```bash
 pnpm install
 ```
+Or using yarn:
+
+```bash
+yarn install
+```
 ---
