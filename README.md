@@ -96,4 +96,7 @@ Or using yarn:
 ```bash
 yarn install
 ```
+### 4. Run the Development Server
+
 ---
+
