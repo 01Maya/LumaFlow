@@ -100,6 +100,8 @@ yarn install
 
 Using npm:
 
-
+```bash
+npm run dev
+```
 ---
 
