@@ -98,5 +98,8 @@ yarn install
 ```
 ### 4. Run the Development Server
 
+Using npm:
+
+
 ---
 
