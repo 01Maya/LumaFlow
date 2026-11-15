@@ -116,3 +116,15 @@ http://localhost:3000
 ---
 
 ## 📦 Build for Production
+
+Create an optimized production build:
+
+```bash
+npm run build
+```
+
+Start the production server:
+
+```bash
+npm run start
+```
