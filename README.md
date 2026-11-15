@@ -105,3 +105,5 @@ npm run dev
 ```
 ---
 
+### 5. Open the Project
+
