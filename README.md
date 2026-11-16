@@ -128,3 +128,11 @@ Start the production server:
 ```bash
 npm run start
 ```
+
+
+## 🌐 Deployment
+
+The project can be deployed easily using **Vercel** or another Next.js-compatible hosting platform.
+
+Connect your GitHub repository to your deployment platform and deploy the project.
+
