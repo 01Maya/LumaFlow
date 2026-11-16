@@ -136,3 +136,5 @@ The project can be deployed easily using **Vercel** or another Next.js-compatibl
 
 Connect your GitHub repository to your deployment platform and deploy the project.
 
+## 📄 License
+
