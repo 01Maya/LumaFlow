@@ -138,3 +138,5 @@ Connect your GitHub repository to your deployment platform and deploy the projec
 
 ## 📄 License
 
+This project is created for portfolio and learning purposes.
+You are free to modify and adapt it for your own projects.
